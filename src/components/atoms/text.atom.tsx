@@ -8,6 +8,7 @@ const variants: Record<Variant, string> = {
   h4: "",
   p: "",
   span: "",
+  a: "text-medium font-[500]",
 };
 
 const Text = ({
